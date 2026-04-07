@@ -10,10 +10,10 @@ created: '2025-03-01'
 modified: '2025-03-01'
 specificationVersion: '0.18'
 tags:
-  - Food
-  - Consumer Goods
-  - Meat Products
   - Brands
+  - Consumer Goods
+  - Food
+  - Meat Products
 apis: []
 common:
   - type: Website
