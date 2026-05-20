@@ -19,6 +19,8 @@ tags:
   - Meat Products
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/hormel-foods
   - type: Website
     url: https://www.hormelfoods.com/
   - type: Foodservice
