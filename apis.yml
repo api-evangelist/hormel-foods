@@ -20,6 +20,8 @@ tags:
   - Fortune 500
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/hormel-foods-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/hormel-foods
   - type: Website
@@ -28,6 +30,8 @@ common:
     url: https://www.hormelfoodservice.com/
   - type: Ingredient Solutions
     url: https://www.hormelingredientsolutions.com/
+  - url: https://www.hormelfoods.com/newsroom/
+    type: Blog
 maintainers:
   - FN: API Evangelist
     url: https://apievangelist.com
