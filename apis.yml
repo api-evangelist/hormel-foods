@@ -6,7 +6,18 @@ description: >-
   Hormel, and Planters. The company produces and markets a wide range of
   meat, nut, and food products. No public APIs were identified.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hormel-foods.png
 url: >-
   https://raw.githubusercontent.com/api-evangelist/hormel-foods/refs/heads/main/apis.yml
 created: '2025-03-01'
