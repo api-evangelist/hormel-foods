@@ -30,6 +30,8 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/hormel-foods.png
 url: >-
+x-api-posture: no-product-api
+x-api-posture-basis: observed
   https://raw.githubusercontent.com/api-evangelist/hormel-foods/refs/heads/main/apis.yml
 created: '2025-03-01'
 modified: '2026-04-28'
