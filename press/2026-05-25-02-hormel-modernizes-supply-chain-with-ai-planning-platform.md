@@ -1,7 +1,9 @@
 ---
 title: Hormel modernizes supply chain with AI planning platform
 url: https://www.supplychaindive.com/news/hormel-supply-chain-ai-planning-platform/816293/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hormel Foods" press release artificial intelligence'
 position: 2
 source: serpapi-google

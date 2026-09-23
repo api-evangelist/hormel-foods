@@ -1,7 +1,9 @@
 ---
 title: Tracking the AI Revolution - Features
 url: https://www.hormelfoods.com/inspired/story/tracking-the-ai-revolution/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hormel Foods" press release artificial intelligence'
 position: 5
 source: serpapi-google

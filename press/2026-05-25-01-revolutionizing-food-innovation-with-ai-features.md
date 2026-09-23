@@ -1,7 +1,9 @@
 ---
 title: Revolutionizing Food Innovation with AI - Features
 url: https://www.hormelfoods.com/inspired/story/revolutionizing-food-innovation-with-ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Hormel Foods" press release artificial intelligence'
 position: 1
 source: serpapi-google
